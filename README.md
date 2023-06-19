@@ -1,2 +1,2 @@
 # Skin-Detection-AI
-Code for Skin Dection AI which can detect skin diseases with about 90% accuracy
+Code for Skin Detection AI can detect skin diseases with about 90% accuracy and is written in Python for TSA Nationals Software Development 2023, located in Louisville, Kentucky. This project is currently being worked on, and the AI has a batch size of 64, an image size of 128, and the length of the training dataset is 244. We are trying to implement the code written in Kaggle into a website made from Django.
